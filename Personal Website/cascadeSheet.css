@@ -1,0 +1,68 @@
+.link1{
+    text-decoration: none;
+}
+body{
+    /*background-color: #fcebb6;*/
+    background-color: #59CBE8;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.navforfiles{
+    text-indent: .70em;
+
+}
+header{
+    color: white;
+    background-color: #0080ff;
+    text-align: center;
+}
+/* Got this from JavaJam Case Study 4 : ) */
+#wrapper{
+    background-color: white;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    min-width: 900px;
+    max-width: 1280px;
+    box-shadow: 3px 3px 3px black;
+}
+h1{
+    text-align: center;
+    padding: 40px 0 40px 0;
+}
+h2{
+    margin-left: auto;
+    margin-right: auto;
+    text-indent: .70em;
+}
+footer{
+    text-align: center;
+    color: white;
+    /* background-color: #D2B48C; */
+    background-color:#0080ff;
+    font-size: .80em;
+}
+/* returnHome ID Index button 
+Learned this from chapter 6
+*/
+#returnHome{
+    text-align: center;
+    text-decoration: none;
+    border-radius: 60px;
+    padding: .70em;
+    color: #ffffff;
+    background-color: rgb(209, 173, 106);
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+}
+
+nav ul{
+    list-style-type: square;
+}
+/* Cornsilk??? Ewww.... */
+#emailLink{
+    text-decoration: none;
+    color: cornsilk; 
+}
+nav a:link { color: black; }
+nav a:visited { color: black; }
+nav a:hover { color: #3a3acf;background-color: #F7DEE1; }
